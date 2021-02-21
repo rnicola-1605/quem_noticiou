@@ -1,2 +1,6 @@
+https://tercalivre.com.br/sitemap_index.xml
+https://www.causaoperaria.org.br/sitemap_index.xml
+
+
 https://tercalivre.com.br/post-sitemap12.xml
 https://www.causaoperaria.org.br/post-sitemap34.xml
